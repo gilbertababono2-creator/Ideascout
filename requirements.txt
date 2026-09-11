@@ -1,0 +1,9 @@
+streamlit>=1.38,<2
+pandas>=2.2
+requests>=2.31
+beautifulsoup4>=4.12
+pytrends>=4.9.2
+ddgs>=9.0.0
+groq>=0.11.0
+praw>=7.8.1
+python-dotenv>=1.0.1
